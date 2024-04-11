@@ -1,0 +1,16 @@
+```markdown
+The AUC and ACC performance on Student Performance Prediction task on four datasets. The best results are highlighted in **bold**, while the second-best value is underlined.
+
+```markdown
+| Dataset  | Metric | Step | Random | MAAT | BECAT | BOBCAT | NCAT | GMOCAT |
+|----------|--------|------|--------|------|-------|--------|------|--------|
+| Assist09 | AUC    | 5    | 0.6394 | 0.6431 | 0.6425 | 0.6419 | 0.6423 | 0.6443 |
+|          | ACC    | 5    | 0.6024 | 0.6129 | 0.6141 | 0.6136 | 0.6184 | 0.6225 |
+| NIPS-EDU | AUC    | 5    | 0.6851 | 0.6988 | 0.7011 | 0.7016 | 0.7053 | 0.7082 |
+|          | ACC    | 5    | 0.6265 | 0.6349 | 0.6404 | 0.6395 | 0.6421 | 0.6478 |
+| Assist12 | AUC    | 5    | 0.7035 | 0.7226 | 0.7288 | 0.7268 | 0.7298 | 0.7314 |
+|          | ACC    | 5    | 0.6305 | 0.6329 | 0.6491 | 0.6513 | 0.6533 | 0.6546 |
+| Math     | AUC    | 5    | 0.6452 | 0.6549 | 0.6589 | 0.6553 | 0.6565 | 0.6633 |
+|          | ACC    | 5    | 0.705  | 0.712  | 0.7133 | 0.7125 | 0.7154 | 0.7144 |
+
+```markdown
