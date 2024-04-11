@@ -11,18 +11,18 @@
 <tbody>
   <tr>
     <td class="tg-c3ow" colspan="2">Metric</td>
-    <td class="tg-c3ow" colspan="16">AUC/ACC</td>
+    <th class="tg-c3ow" colspan="16">AUC/ACC</th>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">Step</td>
-    <td class="tg-c3ow" colspan="2">5</td>
-    <td class="tg-c3ow" colspan="2">10</td>
-    <td class="tg-c3ow" colspan="2">5</td>
-    <td class="tg-c3ow" colspan="2">10</td>
-    <td class="tg-c3ow" colspan="2">5</td>
-    <td class="tg-c3ow" colspan="2">10</td>
-    <td class="tg-c3ow" colspan="2">5</td>
-    <td class="tg-c3ow" colspan="2">10</td>
+    <th class="tg-c3ow" colspan="2">Step</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="3">Policy</td>
