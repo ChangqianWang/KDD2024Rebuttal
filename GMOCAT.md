@@ -15,14 +15,14 @@
   </tr>
   <tr>
     <th class="tg-c3ow" colspan="2">Step</th>
-    <th class="tg-c3ow" colspan="2"><u><b>5</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>10</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>5</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>10</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>5</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>10</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>5</b></u></th>
-    <th class="tg-c3ow" colspan="2"><u><b>10</b></u></th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
+    <th class="tg-c3ow" colspan="2">5</th>
+    <th class="tg-c3ow" colspan="2">10</th>
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="3">Policy</td>
