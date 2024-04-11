@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">MAAT</td>
-    <td class="tg-c3ow" colspan="2">0.6485/0.6249**</td>
+    <td class="tg-c3ow" colspan="2">0.6485/0.6249</td>
     <td class="tg-c3ow" colspan="2">0.6530/0.6348</td>
     <td class="tg-c3ow" colspan="2">0.7131/0.6525</td>
     <td class="tg-c3ow" colspan="2">0.7400/0.6663</td>
