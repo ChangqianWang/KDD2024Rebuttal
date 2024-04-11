@@ -1,3 +1,11 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
 <table class="tg">
 <thead>
   <tr>
@@ -11,21 +19,21 @@
 <tbody>
   <tr>
     <td class="tg-c3ow" colspan="2">Metric</td>
-    <th class="tg-c3ow" colspan="16">AUC/ACC</th>
+    <td class="tg-c3ow" colspan="16">AUC/ACC</td>
   </tr>
   <tr>
-    <th class="tg-c3ow" colspan="2">Step</th>
-    <th class="tg-c3ow" colspan="2">5</th>
-    <th class="tg-c3ow" colspan="2">10</th>
-    <th class="tg-c3ow" colspan="2">5</th>
-    <th class="tg-c3ow" colspan="2">10</th>
-    <th class="tg-c3ow" colspan="2">5</th>
-    <th class="tg-c3ow" colspan="2">10</th>
-    <th class="tg-c3ow" colspan="2">5</th>
-    <th class="tg-c3ow" colspan="2">10</th>
+    <td class="tg-c3ow" colspan="2">Step</td>
+    <td class="tg-c3ow" colspan="2">5</td>
+    <td class="tg-c3ow" colspan="2">10</td>
+    <td class="tg-c3ow" colspan="2">5</td>
+    <td class="tg-c3ow" colspan="2">10</td>
+    <td class="tg-c3ow" colspan="2">5</td>
+    <td class="tg-c3ow" colspan="2">10</td>
+    <td class="tg-c3ow" colspan="2">5</td>
+    <td class="tg-c3ow" colspan="2">10</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" rowspan="3">Policy</td>
+    <td class="tg-c3ow" rowspan="3">*</td>
     <td class="tg-c3ow">Random</td>
     <td class="tg-c3ow" colspan="2">0.6394/0.6024</td>
     <td class="tg-c3ow" colspan="2">0.6480/0.6057</td>
@@ -59,7 +67,7 @@
     <td class="tg-c3ow" colspan="2">0.7432/0.6822</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" rowspan="3">Learnable</td>
+    <td class="tg-c3ow" rowspan="3">*</td>
     <td class="tg-c3ow">BOBCAT</td>
     <td class="tg-c3ow" colspan="2">0.6419/0.6136</td>
     <td class="tg-c3ow" colspan="2">0.6513/0.6213</td>
@@ -93,7 +101,7 @@
     <td class="tg-c3ow" colspan="2">0.7524/0.6933</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" rowspan="3">RECAT</td>
+    <td class="tg-c3ow" rowspan="3">*</td>
     <td class="tg-c3ow">Random</td>
     <td class="tg-c3ow" colspan="2">0.6428/0.6215</td>
     <td class="tg-c3ow" colspan="2">0.6525/0.6322</td>
@@ -106,7 +114,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">MAAT</td>
-    <td class="tg-c3ow" colspan="2">0.6485/0.6249</td>
+    <td class="tg-c3ow" colspan="2"><span style="font-weight:bold">0.6485</span>/0.6249</td>
     <td class="tg-c3ow" colspan="2">0.6530/0.6348</td>
     <td class="tg-c3ow" colspan="2">0.7131/0.6525</td>
     <td class="tg-c3ow" colspan="2">0.7400/0.6663</td>
